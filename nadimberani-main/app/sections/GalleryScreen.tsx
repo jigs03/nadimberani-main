@@ -11,6 +11,7 @@ import BATCH2017 from "@/public/batch2017.jpg";
 import BATCH2018 from "@/public/batch2018.jpg";
 import BATCH2020 from "@/public/batch2020.jpg";
 import BATCH2021 from "@/public/batch2021.jpg";
+import BATCH2022 from "@/public/batch2022.jpg";
 
 const batches = [
   {
@@ -40,6 +41,10 @@ const batches = [
   {
     src: BATCH2021,
     text: "Batch 2021",
+  },
+  {
+    src: BATCH2022,
+    text: "Batch 2022",
   },
 ];
 
